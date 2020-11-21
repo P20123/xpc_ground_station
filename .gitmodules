@@ -1,0 +1,9 @@
+[submodule "alibc.containers"]
+	path = subprojects/alibc.containers
+	url = https://github.com/PyroAVR/alibc.containers
+[submodule "tinyxpc"]
+	path = subprojects/tinyxpc
+	url = https://github.com/PyroAVR/tinyxpc
+[submodule "cwpack"]
+	path = subprojects/cwpack
+	url = https://github.com/clwi/cwpack
